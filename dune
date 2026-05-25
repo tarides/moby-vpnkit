@@ -12,7 +12,7 @@
  (action (run ./src/hostnet_test/main.exe))
 )
 
-(alias
-  (name default)
-  (deps
-    (alias_rec install)))
+; (alias
+;   (name default)
+;   (deps
+;     (alias_rec install)))
