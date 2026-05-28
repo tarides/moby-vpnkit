@@ -18,4 +18,4 @@ jobs:
     - name: Check out sources
       uses: actions/checkout@v6
     - name: Install and test
-      uses: Leonidas-from-XIV/setup-dune@0173e38bffca83a844262acb2d8ac34889798289
+      uses: Leonidas-from-XIV/setup-dune@84b3c8d035e734b9ded99402d381004e0aa902b7
